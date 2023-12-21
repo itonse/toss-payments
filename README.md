@@ -10,14 +10,16 @@
 
 <br>
 
-![img.png](img/img.png)
+<img src="img/img.png" width="500" height="400">
 
-![img_1.png](img/img_1.png)
+<br><br>
+<img src="img/img_1.png" width="500" height="650">
 
-![img_2.png](img/img_2.png)
+<br><br>
+<img src="img/img_2.png" width="500" height="650">
 
 <br>
 
-## # 아래는 휴대폰으로 결제 요청이 온 화면입니다.
-
-![img_4.png](img/img_4.png)
+## # 아래는 휴대폰으로 결제 요청이 도착한 화면입니다.
+<br><br>
+<img src="img/img_4.png" width="500" height="350">
